@@ -1,7 +1,5 @@
-anchor_icon:
-  default: "inbox"
 svg_icons:
-  default: "paper-plane|inbox|ban"
+  default: "paper-plane|far-paper-plane|far-inbox|far-ban"
   type: "list"
   list_type: "compact"
   description: "List of FontAwesome 5 icons used in this theme component"
