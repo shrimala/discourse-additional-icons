@@ -1,3 +1,5 @@
+anchor_icon:
+  default: "inbox"
 svg_icons:
   default: "paper-plane|inbox|ban"
   type: "list"
